@@ -1,0 +1,6 @@
+#companyName {
+    font: italic 42px/1.2 "Lobster Two",serif;
+} #companyName span {
+    font: 400 18px georgia, serif;
+    letter-spacing: 1px;
+}

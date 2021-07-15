@@ -13,9 +13,9 @@ navigation:
 ToDo:
 1. Take high quality photo of outside for Hero
 2. create home page in this order
-- header nav
+- header nav {Done}
 - hero image
-- rates
+- rates & Hours
 - Pro Show
 - 13th Frame
 - Coffee Shop
